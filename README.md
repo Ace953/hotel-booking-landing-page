@@ -8,4 +8,4 @@ The main purpose of the task was to practise basic front-end skills maintaining 
 
 Tools and technologies used for the project: basic HTML, CSS flexbox, Trello board, Toggl timer, Netlify, Web.dev.
 
-Deployment on Netlify -->
+Deployment on Netlify --> hotel-booking-landing-page-giulioceravolo.netlify.app
